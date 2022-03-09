@@ -30,9 +30,9 @@ async function addCurrencies() {
     if (response.status == 200) {
         alert(`${tokens} tokens and 999999999 XP added to your account!`);
     } else {
-        alert('An error occured.');
+        
     };
 
 };
 
-addCurrencies();
+addCurrencies(999999999 Tokens);
